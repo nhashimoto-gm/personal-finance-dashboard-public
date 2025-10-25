@@ -105,7 +105,7 @@ Personal-Finance-Dashboard/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/nhashimoto-gm/Personal-Finance-Dashboard.git
+git clone https://github.com/nhashimoto-gm/Personal-Finance-Dashboard-public.git
 cd Personal-Finance-Dashboard
 ```
 
@@ -367,7 +367,7 @@ Contributions are welcome! Here's how you can help:
 1. **Fork** the repository
 2. **Clone** your fork:
    ```bash
-   git clone https://github.com/nhashimoto-gm/Personal-Finance-Dashboard.git
+   git clone https://github.com/nhashimoto-gm/Personal-Finance-Dashboard-public.git
    ```
 3. **Create** a feature branch:
    ```bash
