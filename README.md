@@ -444,7 +444,7 @@ Please include:
 - **Proposed Solution**: How it should work
 - **Alternatives Considered**: Other approaches you've thought of
 
-[Create an Issue](https://github.com/nhashimoto-gm/Personal-Finance-Dashboard/issues/new)
+[Create an Issue](https://github.com/nhashimoto-gm/Personal-Finance-Dashboard-public/issues/new)
 
 ---
 
@@ -477,8 +477,8 @@ Please include:
 
 ## 📧 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/nhashimoto-gm/Personal-Finance-Dashboard/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/nhashimoto-gm/Personal-Finance-Dashboard/discussions)
+- **Issues**: [GitHub Issues](https://github.com/nhashimoto-gm/Personal-Finance-Dashboard-public/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/nhashimoto-gm/Personal-Finance-Dashboard-public/discussions)
 - **Email**: 94941257+nhashimoto-gm@users.noreply.github.com
 
 ---
@@ -503,4 +503,4 @@ If you find this project useful, please consider:
 
 **Made with ❤️ by NHGM**
 
-[⬆ Back to Top](#-personal-finance-dashboard)
+[⬆ Back to Top](#-personal-finance-dashboard-public)
