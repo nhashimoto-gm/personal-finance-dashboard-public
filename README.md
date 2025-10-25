@@ -214,7 +214,6 @@ RewriteRule ^(.*)$ index.php [QSA,L]
 
 ## 📖 Usage
 
-> 📚 **詳細な使用要領**: [USAGE.md](./docs/USAGE.md)をご覧ください
 > **Detailed Usage Guide**: Please refer to [USAGE.md](./docs/USAGE.md)
 
 ### Adding a Transaction
@@ -502,5 +501,3 @@ If you find this project useful, please consider:
 ---
 
 **Made with ❤️ by NHGM**
-
-[⬆ Back to Top](#-personal-finance-dashboard-public)
